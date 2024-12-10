@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <string name="app_name">DSM Helper</string>
+    <style name="Theme.DSMHelper" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
