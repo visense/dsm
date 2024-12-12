@@ -45,3 +45,7 @@ app.*.map.json
 
 # Large files
 fplayer/ios/Frameworks/IJKMediaPlayer.framework/IJKMediaPlayer
+fplayer/ios/Frameworks/IJKMediaPlayer.framework/
+android/aars/fijkplayer-full-release.aar
+android/app/build/
+.gradle/
